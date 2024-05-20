@@ -1,5 +1,6 @@
 import Image from "next/image"
 import React, {ReactNode} from "react";
+
 export default function Hero() {
     return (
         <HeroContainer>
